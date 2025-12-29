@@ -1,16 +1,17 @@
 ---
 layout: single
-title: "个人介绍"
+Title: "Personal Introduction"
 permalink: /
 author_profile: true
 ---
+I am Li Run, an intern at the School of Software at Sun Yat sen University
 
-我是李润，中山大学软件学院实习生
+##Research direction
+-Machine Learning
+-Natural Language Processing
+-Computer Vision
 
-## 研究方向
-- 机器学习
-- 自然语言处理
-- 计算机视觉
+##Educational background
+-Master's degree in Computer Technology, Peking University, 2019-2022
 
-## 教育背景
-- **硕士**，计算机技术，北京大学，2019-2022
+##email:duy5a6kthuong2462@gmail.com
